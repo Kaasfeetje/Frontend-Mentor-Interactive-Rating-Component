@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/Kaasfeetje/Frontend-Mentor-Interactive-Rating-Component)
--   Live Site URL: [Site](https://your-live-site-url.com)
+-   Live Site URL: [Site](https://interactive-rating-component-kaasfeetje.netlify.app/)
 
 ## My process
 
